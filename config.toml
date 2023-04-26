@@ -1,0 +1,19 @@
+baseurl = "https://shreyasjejurkar.com/"
+languageCode = "en-US"
+title = "Shreyas Jejurkar blog"
+disqusShortname = ""
+googleAnalytics = ""
+theme = "hugo-sustain"
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+[params]
+  avatar = "profile.png"
+  author = "Author Name"
+  description = "Describe your website"
+custom_css = []
+  custom_js  = []
+[[menu.main]]
+  name = "blog"
+  weight = 100
+  identifier = "blog"
+  url = "/blog/"
