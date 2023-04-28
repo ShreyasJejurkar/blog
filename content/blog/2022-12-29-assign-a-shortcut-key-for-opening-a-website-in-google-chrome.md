@@ -1,7 +1,7 @@
 ---
 id: 896
 title: 'Assign a shortcut key for opening a website in Google Chrome'
-date: '2022-12-29T15:18:51+00:00'
+date: 2022-12-29T15:18:51+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://shreyasjejurkar.com/?p=896'

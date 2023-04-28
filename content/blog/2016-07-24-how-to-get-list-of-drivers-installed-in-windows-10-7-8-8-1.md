@@ -1,7 +1,7 @@
 ---
 id: 272
 title: 'How to &#8211; Get List Of Installed Drivers in Windows 10, 7, 8, 8.1'
-date: '2016-07-24T11:35:16+00:00'
+date: 2016-07-24T11:35:16+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=272'

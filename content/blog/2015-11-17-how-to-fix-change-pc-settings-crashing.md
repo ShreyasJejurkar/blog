@@ -1,7 +1,7 @@
 ---
 id: 177
 title: 'How to fix- Change PC Settings Crashing.'
-date: '2015-11-17T07:49:20+00:00'
+date: 2015-11-17T07:49:20+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=177'

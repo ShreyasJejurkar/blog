@@ -1,7 +1,7 @@
 ---
 id: 214
 title: 'How to &#8211; Get Transparent Background of Command Prompt And PowerShell In Windows 10'
-date: '2016-01-10T08:36:59+00:00'
+date: 2016-01-10T08:36:59+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=214'

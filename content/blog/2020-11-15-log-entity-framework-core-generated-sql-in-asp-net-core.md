@@ -1,7 +1,7 @@
 ---
 id: 560
 title: 'Log Entity Framework Core generated SQL in ASP.NET Core'
-date: '2020-11-15T14:03:20+00:00'
+date: 2020-11-15T14:03:20+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=560'

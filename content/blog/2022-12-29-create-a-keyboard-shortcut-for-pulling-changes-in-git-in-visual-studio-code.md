@@ -1,7 +1,7 @@
 ---
 id: 873
 title: 'Create a keyboard shortcut for pulling changes in git in Visual Studio Code'
-date: '2022-12-29T14:48:41+00:00'
+date: 2022-12-29T14:48:41+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://shreyasjejurkar.com/?p=873'

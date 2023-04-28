@@ -1,7 +1,7 @@
 ---
 id: 894
 title: 'Thoughts on Economic recession'
-date: '2022-12-29T15:14:31+00:00'
+date: 2022-12-29T15:14:31+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://shreyasjejurkar.com/?p=894'

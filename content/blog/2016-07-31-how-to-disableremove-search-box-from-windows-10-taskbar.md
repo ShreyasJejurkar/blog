@@ -1,7 +1,7 @@
 ---
 id: 296
 title: 'How to &#8211; Disable/Remove Search Box From Windows 10 Taskbar'
-date: '2016-07-31T07:22:32+00:00'
+date: 2016-07-31T07:22:32+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=296'

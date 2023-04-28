@@ -1,7 +1,7 @@
 ---
 id: 525
 title: 'How to - Disable Windows Defender on Windows 10 Home / Pro'
-date: '2020-01-18T08:13:51+00:00'
+date: 2020-01-18T08:13:51+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=525'

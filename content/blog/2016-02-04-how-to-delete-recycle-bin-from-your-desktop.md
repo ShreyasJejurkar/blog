@@ -1,7 +1,7 @@
 ---
 id: 224
 title: 'How to &#8211; Delete Recycle Bin From Your Desktop'
-date: '2016-02-04T14:16:21+00:00'
+date: 2016-02-04T14:16:21+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=224'

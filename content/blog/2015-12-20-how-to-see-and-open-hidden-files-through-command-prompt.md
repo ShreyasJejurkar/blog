@@ -1,7 +1,7 @@
 ---
 id: 207
 title: 'How to see and open hidden files through Command Prompt.'
-date: '2015-12-20T15:07:57+00:00'
+date: 2015-12-20T15:07:57+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=207'

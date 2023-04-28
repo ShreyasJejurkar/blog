@@ -1,7 +1,7 @@
 ---
 id: 595
 title: 'How to fix &#8211; Could not found one or more components. please reinstall the application error.'
-date: '2021-04-16T17:08:12+00:00'
+date: 2021-04-16T17:08:12+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=595'

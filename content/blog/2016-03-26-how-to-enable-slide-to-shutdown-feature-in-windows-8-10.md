@@ -1,7 +1,7 @@
 ---
 id: 245
 title: 'How to enable Slide To Shutdown Feature in Windows 8 / 10'
-date: '2016-03-26T16:04:32+00:00'
+date: 2016-03-26T16:04:32+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=245'

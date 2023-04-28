@@ -1,7 +1,7 @@
 ---
 id: 198
 title: 'How to Reinstall Microsoft Edge on Windows 10. /Solve Microsoft Edge crashing issue.'
-date: '2015-12-14T10:24:09+00:00'
+date: 2015-12-14T10:24:09+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=198'

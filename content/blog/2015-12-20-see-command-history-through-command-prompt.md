@@ -1,7 +1,7 @@
 ---
 id: 210
 title: 'See Command History through Command Prompt.'
-date: '2015-12-20T15:31:38+00:00'
+date: 2015-12-20T15:31:38+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=210'

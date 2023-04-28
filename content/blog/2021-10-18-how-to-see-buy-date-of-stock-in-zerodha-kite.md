@@ -1,7 +1,7 @@
 ---
 id: 693
 title: 'How to see Buy Date of Stock in Zerodha Kite'
-date: '2021-10-18T13:46:17+00:00'
+date: 2021-10-18T13:46:17+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.com/?p=693'

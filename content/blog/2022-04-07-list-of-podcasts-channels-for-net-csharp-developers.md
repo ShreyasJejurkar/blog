@@ -1,7 +1,7 @@
 ---
 id: 741
 title: 'List of Podcasts channels for .NET C# developers'
-date: '2022-04-07T14:50:02+00:00'
+date: 2022-04-07T14:50:02+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.com/?p=741'

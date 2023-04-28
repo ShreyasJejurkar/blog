@@ -1,7 +1,7 @@
 ---
 id: 629
 title: 'Clean Architecture with C# .NET'
-date: '2021-04-22T13:41:28+00:00'
+date: 2021-04-22T13:41:28+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.com/?p=629'

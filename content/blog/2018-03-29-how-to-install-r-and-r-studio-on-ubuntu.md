@@ -1,7 +1,7 @@
 ---
 id: 504
 title: 'How to &#8211; Install R and R studio on Ubuntu'
-date: '2018-03-29T07:14:50+00:00'
+date: 2018-03-29T07:14:50+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=504'

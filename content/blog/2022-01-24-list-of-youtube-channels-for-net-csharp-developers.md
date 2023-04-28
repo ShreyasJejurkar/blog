@@ -1,7 +1,7 @@
 ---
 id: 728
 title: 'List of YouTube channels for .NET C# developers'
-date: '2022-01-24T12:59:16+00:00'
+date: 2022-01-24T12:59:16+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.com/?p=720'

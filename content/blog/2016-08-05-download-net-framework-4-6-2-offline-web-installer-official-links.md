@@ -1,7 +1,7 @@
 ---
 id: 301
 title: 'Download .NET Framework 4.6.2 Offline &amp; Web Installer (Official Links)'
-date: '2016-08-05T15:59:50+00:00'
+date: 2016-08-05T15:59:50+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=301'

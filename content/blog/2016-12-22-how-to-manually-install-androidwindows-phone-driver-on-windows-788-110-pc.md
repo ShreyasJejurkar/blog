@@ -1,7 +1,7 @@
 ---
 id: 344
 title: 'How to manually install Android/Windows Phone driver on Windows 7/8/8.1/10 PC'
-date: '2016-12-22T10:13:30+00:00'
+date: 2016-12-22T10:13:30+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=344'

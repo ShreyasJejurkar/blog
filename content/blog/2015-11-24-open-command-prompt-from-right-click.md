@@ -1,7 +1,7 @@
 ---
 id: 192
 title: 'Open Command Prompt From Right Click.'
-date: '2015-11-24T11:46:39+00:00'
+date: 2015-11-24T11:46:39+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=192'

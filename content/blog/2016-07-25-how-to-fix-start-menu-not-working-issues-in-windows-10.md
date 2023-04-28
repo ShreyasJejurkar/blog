@@ -1,7 +1,7 @@
 ---
 id: 286
 title: 'How To &#8211; Fix Start Menu Not Working Issues in Windows 10'
-date: '2016-07-25T06:42:04+00:00'
+date: 2016-07-25T06:42:04+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=286'

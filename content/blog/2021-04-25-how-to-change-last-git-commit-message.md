@@ -1,7 +1,7 @@
 ---
 id: 654
 title: 'How to &#8211; Change last git commit message.'
-date: '2021-04-25T14:09:42+00:00'
+date: 2021-04-25T14:09:42+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.com/?p=654'

@@ -1,7 +1,7 @@
 ---
 id: 253
 title: 'How to use Zapya on Windows Phone to transfer files.'
-date: '2016-04-02T08:07:01+00:00'
+date: 2016-04-02T08:07:01+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=253'

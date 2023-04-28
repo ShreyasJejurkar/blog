@@ -1,7 +1,7 @@
 ---
 id: 412
 title: "How to install and configure TASM on Windows 7/8/10.\_"
-date: '2017-03-27T05:19:22+00:00'
+date: 2017-03-27T05:19:22+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=412'
