@@ -17,3 +17,7 @@ custom_css = []
   weight = 100
   identifier = "blog"
   url = "/blog/"
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = 0.5

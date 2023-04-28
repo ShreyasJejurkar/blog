@@ -1,6 +1,6 @@
 ---
 id: 424
-title: "How to &#8211; Do C/C++ graphics program in Ubuntu // install libgraph (graphics.h) in Ubuntu."
+title: "How to &#8211; Do C/C++ graphics program in Ubuntu install libgraph (graphics.h) in Ubuntu."
 date: 2017-04-09T09:03:09+00:00
 author: ShreyasJejurkar
 layout: post
