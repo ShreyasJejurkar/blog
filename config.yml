@@ -7,6 +7,8 @@ permalinks:
 params:
   env: production
   avatar: profile.png
+  description: "Shreyas Jejurkar blog"
+  keywords: [Blog, Portfolio, Shreyas Jejurkar, Microsoft, Software Engineer, Windows, Programming, Technology, Misc]
   custom_css: []
   custom_js: []
   ShowReadingTime: true
