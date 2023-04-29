@@ -5,7 +5,7 @@ date: 2016-09-11T08:21:12+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=312'
-permalink: /2016/09/11/how-to-solve-team-explorer-fatal-error-during-visual-studio-installation/
+slug: how-to-solve-team-explorer-fatal-error-during-visual-studio-installation
 publicize_twitter_user:
     - MCCshreyas
 categories:

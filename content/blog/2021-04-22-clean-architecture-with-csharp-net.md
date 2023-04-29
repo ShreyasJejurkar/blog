@@ -5,7 +5,7 @@ date: 2021-04-22T13:41:28+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.com/?p=629'
-permalink: /2021/04/22/clean-architecture-with-csharp-net/
+slug: clean-architecture-with-csharp-net
 timeline_notification:
     - '1619079091'
 image: /wp-content/uploads/2021/04/pexels-photo-4974914.jpeg

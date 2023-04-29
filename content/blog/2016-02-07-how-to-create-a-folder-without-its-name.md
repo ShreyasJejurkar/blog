@@ -5,7 +5,7 @@ date: 2016-02-07T09:22:13+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=228'
-permalink: /2016/02/07/how-to-create-a-folder-without-its-name/
+slug: how-to-create-a-folder-without-its-name
 publicize_twitter_user:
     - MCCshreyas
 publicize_google_plus_url:

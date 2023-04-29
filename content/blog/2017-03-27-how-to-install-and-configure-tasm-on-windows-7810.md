@@ -5,7 +5,7 @@ date: 2017-03-27T05:19:22+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=412'
-permalink: /2017/03/27/how-to-install-and-configure-tasm-on-windows-7810/
+slug: how-to-install-and-configure-tasm-on-windows-7810
 publicize_twitter_user:
     - MCCshreyas
 image: /wp-content/uploads/2017/03/wp-1490591761960.png

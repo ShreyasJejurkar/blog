@@ -5,7 +5,7 @@ date: 2022-12-29T15:26:16+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://shreyasjejurkar.com/?p=898'
-permalink: /2022/12/29/how-to-set-the-memory-limit-for-docker-container/
+slug: how-to-set-the-memory-limit-for-docker-container
 image: /wp-content/uploads/2022/12/pexels-photo-906494.jpeg
 categories:
     - Programming

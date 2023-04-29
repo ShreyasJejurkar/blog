@@ -5,7 +5,7 @@ date: 2018-03-29T07:14:50+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=504'
-permalink: /2018/03/29/how-to-install-r-and-r-studio-on-ubuntu/
+slug: how-to-install-r-and-r-studio-on-ubuntu
 timeline_notification:
     - '1522307693'
 publicize_twitter_user:

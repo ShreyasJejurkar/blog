@@ -5,7 +5,7 @@ date: 2015-12-20T15:07:57+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=207'
-permalink: /2015/12/20/how-to-see-and-open-hidden-files-through-command-prompt/
+slug: how-to-see-and-open-hidden-files-through-command-prompt
 categories:
     - Windows
 ---

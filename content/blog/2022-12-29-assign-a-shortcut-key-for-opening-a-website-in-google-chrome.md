@@ -5,7 +5,7 @@ date: 2022-12-29T15:18:51+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://shreyasjejurkar.com/?p=896'
-permalink: /2022/12/29/assign-a-shortcut-key-for-opening-a-website-in-google-chrome/
+slug: assign-a-shortcut-key-for-opening-a-website-in-google-chrome
 categories:
     - Uncategorized
 ---

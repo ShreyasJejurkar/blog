@@ -5,7 +5,7 @@ date: 2021-04-25T14:09:42+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.com/?p=654'
-permalink: /2021/04/25/how-to-change-last-git-commit-message/
+slug: how-to-change-last-git-commit-message
 timeline_notification:
     - '1619339985'
 image: /wp-content/uploads/2021/04/image.png

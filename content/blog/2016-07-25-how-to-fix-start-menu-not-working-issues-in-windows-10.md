@@ -5,7 +5,7 @@ date: 2016-07-25T06:42:04+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=286'
-permalink: /2016/07/25/how-to-fix-start-menu-not-working-issues-in-windows-10/
+slug: how-to-fix-start-menu-not-working-issues-in-windows-10
 publicize_twitter_user:
     - MCCshreyas
 categories:

@@ -5,7 +5,7 @@ date: 2015-12-14T10:24:09+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=198'
-permalink: /2015/12/14/how-to-reinstall-microsoft-edge-on-windows-10/
+slug: how-to-reinstall-microsoft-edge-on-windows-10
 categories:
     - Windows
 ---

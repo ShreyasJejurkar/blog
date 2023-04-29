@@ -5,7 +5,7 @@ date: 2022-04-07T14:50:02+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.com/?p=741'
-permalink: /2022/04/07/list-of-podcasts-channels-for-net-csharp-developers/
+slug: list-of-podcasts-channels-for-net-csharp-developers
 timeline_notification:
     - '1649323204'
 spay_email:

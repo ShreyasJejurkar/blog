@@ -5,7 +5,7 @@ date: 2016-02-07T10:00:25+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=233'
-permalink: /2016/02/07/how-to-display-your-name-in-taskbar/
+slug: how-to-display-your-name-in-taskbar
 publicize_google_plus_url:
     - 'https://plus.google.com/109457878009607673055/posts/WGuVcuYPx9H'
 publicize_twitter_user:

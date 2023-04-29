@@ -5,7 +5,7 @@ date: 2020-11-15T14:03:20+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=560'
-permalink: /2020/11/15/log-entity-framework-core-generated-sql-in-asp-net-core/
+slug: log-entity-framework-core-generated-sql-in-asp-net-core
 timeline_notification:
     - '1605449003'
 publicize_twitter_user:

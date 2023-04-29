@@ -5,7 +5,7 @@ date: 2021-10-18T13:46:17+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.com/?p=693'
-permalink: /2021/10/18/how-to-see-buy-date-of-stock-in-zerodha-kite/
+slug: how-to-see-buy-date-of-stock-in-zerodha-kite
 timeline_notification:
     - '1634544979'
 categories:

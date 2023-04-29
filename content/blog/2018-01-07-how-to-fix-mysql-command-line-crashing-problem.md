@@ -5,7 +5,7 @@ date: 2018-01-07T09:59:28+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=472'
-permalink: /2018/01/07/how-to-fix-mysql-command-line-crashing-problem/
+slug: how-to-fix-mysql-command-line-crashing-problem
 image: /wp-content/uploads/2018/01/1200px-mysql-svg.png
 categories:
     - Windows

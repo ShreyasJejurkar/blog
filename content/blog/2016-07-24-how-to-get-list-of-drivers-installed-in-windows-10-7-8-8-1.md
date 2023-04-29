@@ -5,7 +5,7 @@ date: 2016-07-24T11:35:16+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=272'
-permalink: /2016/07/24/how-to-get-list-of-drivers-installed-in-windows-10-7-8-8-1/
+slug: how-to-get-list-of-drivers-installed-in-windows-10-7-8-8-1
 publicize_twitter_user:
     - MCCshreyas
 categories:

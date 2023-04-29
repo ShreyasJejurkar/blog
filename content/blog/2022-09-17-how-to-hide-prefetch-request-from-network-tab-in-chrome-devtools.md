@@ -5,7 +5,7 @@ date: 2022-09-17T06:20:46+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://shreyasjejurkar.com/?p=862'
-permalink: /2022/09/17/how-to-hide-prefetch-request-from-network-tab-in-chrome-devtools/
+slug: how-to-hide-prefetch-request-from-network-tab-in-chrome-devtools
 image: /wp-content/uploads/2022/09/pexels-photo-1482061.jpeg
 categories:
     - Programming

@@ -5,7 +5,7 @@ date: 2015-11-20T15:30:47+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=186'
-permalink: /2015/11/20/access-recycle-bin-from-my-computer/
+slug: access-recycle-bin-from-my-computer
 categories:
     - Windows
 ---

@@ -5,7 +5,7 @@ date: 2022-12-29T14:48:41+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://shreyasjejurkar.com/?p=873'
-permalink: /2022/12/29/create-a-keyboard-shortcut-for-pulling-changes-in-git-in-visual-studio-code/
+slug: create-a-keyboard-shortcut-for-pulling-changes-in-git-in-visual-studio-code
 categories:
     - Programming
 ---

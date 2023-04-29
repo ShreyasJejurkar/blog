@@ -5,7 +5,7 @@ date: 2016-03-26T16:04:32+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=245'
-permalink: /2016/03/26/how-to-enable-slide-to-shutdown-feature-in-windows-8-10/
+slug: how-to-enable-slide-to-shutdown-feature-in-windows-8-10
 publicize_twitter_user:
     - MCCshreyas
 categories:

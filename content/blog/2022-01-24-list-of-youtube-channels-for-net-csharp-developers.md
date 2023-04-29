@@ -5,7 +5,7 @@ date: 2022-01-24T12:59:16+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.com/?p=720'
-permalink: /2022/01/24/list-of-youtube-channels-for-net-csharp-developers/
+slug: list-of-youtube-channels-for-net-csharp-developers
 spay_email:
     - ''
 jetpack_anchor_podcast:

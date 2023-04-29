@@ -5,7 +5,7 @@ date: 2021-04-16T17:08:12+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=595'
-permalink: /2021/04/16/how-to-fix-could-not-found-one-or-more-components-please-reinstall-the-application-error/
+slug: how-to-fix-could-not-found-one-or-more-components-please-reinstall-the-application-error
 timeline_notification:
     - '1618573095'
 publicize_linkedin_url:

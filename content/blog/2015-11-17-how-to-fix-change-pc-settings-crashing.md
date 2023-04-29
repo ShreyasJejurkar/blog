@@ -5,7 +5,7 @@ date: 2015-11-17T07:49:20+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=177'
-permalink: /2015/11/17/how-to-fix-change-pc-settings-crashing/
+slug: how-to-fix-change-pc-settings-crashing
 categories:
     - Windows
 ---

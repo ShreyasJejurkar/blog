@@ -5,7 +5,7 @@ date: 2015-11-24T11:46:39+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=192'
-permalink: /2015/11/24/open-command-prompt-from-right-click/
+slug: open-command-prompt-from-right-click
 categories:
     - Windows
 ---

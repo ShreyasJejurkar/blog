@@ -5,7 +5,7 @@ date: 2016-07-31T07:22:32+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=296'
-permalink: /2016/07/31/how-to-disableremove-search-box-from-windows-10-taskbar/
+slug: how-to-disableremove-search-box-from-windows-10-taskbar
 publicize_twitter_user:
     - MCCshreyas
 categories:

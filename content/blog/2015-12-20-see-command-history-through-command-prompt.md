@@ -5,7 +5,7 @@ date: 2015-12-20T15:31:38+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=210'
-permalink: /2015/12/20/see-command-history-through-command-prompt/
+slug: see-command-history-through-command-prompt
 categories:
     - Windows
 ---

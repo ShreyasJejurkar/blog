@@ -5,7 +5,7 @@ date: 2016-01-10T08:36:59+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=214'
-permalink: /2016/01/10/how-to-get-transparent-background-of-command-prompt-and-powershell-in-windows-10/
+slug: how-to-get-transparent-background-of-command-prompt-and-powershell-in-windows-10
 categories:
     - Windows
 ---

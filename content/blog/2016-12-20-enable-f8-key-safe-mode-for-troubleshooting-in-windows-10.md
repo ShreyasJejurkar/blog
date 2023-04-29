@@ -5,7 +5,7 @@ date: 2016-12-20T15:26:30+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=320'
-permalink: /2016/12/20/enable-f8-key-safe-mode-for-troubleshooting-in-windows-10/
+slug: enable-f8-key-safe-mode-for-troubleshooting-in-windows-10
 publicize_twitter_user:
     - MCCshreyas
 categories:

@@ -5,7 +5,7 @@ date: 2016-04-02T08:07:01+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=253'
-permalink: /2016/04/02/how-to-use-zapya-on-windowsphone-to-transfer-files/
+slug: how-to-use-zapya-on-windowsphone-to-transfer-files
 publicize_twitter_user:
     - MCCshreyas
 categories:

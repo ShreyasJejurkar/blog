@@ -5,7 +5,7 @@ date: 2016-12-21T09:30:56+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=324'
-permalink: /2016/12/21/how-to-reset-windows-firewall-to-defaults-settings-in-windows-788-110/
+slug: how-to-reset-windows-firewall-to-defaults-settings-in-windows-788-110
 publicize_twitter_user:
     - MCCshreyas
 image: /wp-content/uploads/2016/12/savedpicture-2016122115519.jpg

@@ -5,7 +5,7 @@ date: 2020-01-18T08:13:51+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=525'
-permalink: /2020/01/18/how-to-disable-windows-defender-on-windows-10-home-pro/
+slug: how-to-disable-windows-defender-on-windows-10-home-pro
 timeline_notification:
     - '1579347900'
 image: /wp-content/uploads/2020/01/defenderhighusage.png

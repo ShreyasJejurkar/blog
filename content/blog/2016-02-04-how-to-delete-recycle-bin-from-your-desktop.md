@@ -5,7 +5,7 @@ date: 2016-02-04T14:16:21+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=224'
-permalink: /2016/02/04/how-to-delete-recycle-bin-from-your-desktop/
+slug: how-to-delete-recycle-bin-from-your-desktop
 publicize_google_plus_url:
     - 'https://plus.google.com/109457878009607673055/posts/NzBrSmTVW3N'
 publicize_twitter_user:

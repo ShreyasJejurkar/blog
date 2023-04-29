@@ -5,7 +5,7 @@ date: 2022-12-29T15:14:31+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://shreyasjejurkar.com/?p=894'
-permalink: /2022/12/29/thoughts-on-economic-recession/
+slug: thoughts-on-economic-recession
 categories:
     - Uncategorized
 ---

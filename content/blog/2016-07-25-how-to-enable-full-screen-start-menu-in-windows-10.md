@@ -5,7 +5,7 @@ date: 2016-07-25T08:36:43+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=292'
-permalink: /2016/07/25/how-to-enable-full-screen-start-menu-in-windows-10/
+slug: how-to-enable-full-screen-start-menu-in-windows-10
 publicize_twitter_user:
     - MCCshreyas
 categories:

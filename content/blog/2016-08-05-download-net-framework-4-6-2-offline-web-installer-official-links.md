@@ -5,7 +5,7 @@ date: 2016-08-05T15:59:50+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=301'
-permalink: /2016/08/05/download-net-framework-4-6-2-offline-web-installer-official-links/
+slug: download-net-framework-4-6-2-offline-web-installer-official-links
 publicize_twitter_user:
     - MCCshreyas
 image: /wp-content/uploads/2016/08/savedpicture-201685214012.jpg

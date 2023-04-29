@@ -5,7 +5,7 @@ date: 2016-03-01T17:29:23+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=242'
-permalink: /2016/03/01/how-to-display-current-windows-version-on-desktop/
+slug: how-to-display-current-windows-version-on-desktop
 publicize_google_plus_url:
     - 'https://plus.google.com/109457878009607673055/posts/FHnEXymDSxE'
 publicize_twitter_user:

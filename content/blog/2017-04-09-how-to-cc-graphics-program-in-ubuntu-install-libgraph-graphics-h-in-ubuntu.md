@@ -5,7 +5,7 @@ date: 2017-04-09T09:03:09+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/2017/04/09/how-to-cc-graphics-program-in-ubuntu-install-libgraph-graphics-h-in-ubuntu/'
-permalink: /2017/04/09/how-to-cc-graphics-program-in-ubuntu-install-libgraph-graphics-h-in-ubuntu/
+slug: how-to-cc-graphics-program-in-ubuntu-install-libgraph-graphics-h-in-ubuntu
 publicize_twitter_user:
     - MCCshreyas
 categories:

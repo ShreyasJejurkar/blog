@@ -5,7 +5,7 @@ date: 2016-12-22T10:13:30+00:00
 author: ShreyasJejurkar
 layout: post
 guid: 'https://mccshreyas.wordpress.com/?p=344'
-permalink: /2016/12/22/how-to-manually-install-androidwindows-phone-driver-on-windows-788-110-pc/
+slug: how-to-manually-install-androidwindows-phone-driver-on-windows-788-110-pc
 publicize_twitter_user:
     - MCCshreyas
 categories:
