@@ -1,6 +1,6 @@
 ---
 id: 595
-title: 'How to fix &#8211; Could not found one or more components. please reinstall the application error.'
+title: 'How to fix - Could not found one or more components. please reinstall the application error.'
 date: 2021-04-16T17:08:12+00:00
 author: ShreyasJejurkar
 layout: post

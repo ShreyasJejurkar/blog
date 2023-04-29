@@ -1,6 +1,6 @@
 ---
 id: 472
-title: 'How to &#8211; Fix MySQL Command line Client crashing problem.'
+title: 'How to - Fix MySQL Command line Client crashing problem.'
 date: 2018-01-07T09:59:28+00:00
 author: ShreyasJejurkar
 layout: post

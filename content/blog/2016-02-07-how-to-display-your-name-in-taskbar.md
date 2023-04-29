@@ -1,6 +1,6 @@
 ---
 id: 233
-title: 'How to &#8211; Display Your Name In Taskbar'
+title: 'How to - Display Your Name In Taskbar'
 date: 2016-02-07T10:00:25+00:00
 author: ShreyasJejurkar
 layout: post

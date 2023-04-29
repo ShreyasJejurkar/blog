@@ -1,6 +1,6 @@
 ---
 id: 504
-title: 'How to &#8211; Install R and R studio on Ubuntu'
+title: 'How to - Install R and R studio on Ubuntu'
 date: 2018-03-29T07:14:50+00:00
 author: ShreyasJejurkar
 layout: post

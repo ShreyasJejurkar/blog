@@ -1,6 +1,6 @@
 ---
 id: 292
-title: 'How to &#8211; Enable Full Screen Start Menu In Windows 10'
+title: 'How to - Enable Full Screen Start Menu In Windows 10'
 date: 2016-07-25T08:36:43+00:00
 author: ShreyasJejurkar
 layout: post

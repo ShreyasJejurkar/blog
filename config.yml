@@ -1,24 +1,55 @@
 baseurl: 'https://shreyasjejurkar.com/'
-languageCode: en-US
 title: Shreyas Jejurkar blog
-disqusShortname: ''
-googleAnalytics: ''
-theme: hugo-sustain
+languageCode: en-US
+theme: "PaperMod"
 permalinks:
   blog: '/:year/:month/:day/:slug'
 params:
+  env: production
   avatar: profile.png
-  author: Author Name
-  description: Describe your website
   custom_css: []
   custom_js: []
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: true
+  comments: true
+  homeInfoParams:
+    Title: Hi there, I'am Shreyas Jejurkar, welcome to my digital space.
+    Content: "Currently I am working as Software Engineer at Microsoft. 
+    Here you will find blogs on various topics like Windows, programming, technology, misc etc."
+  socialIcons:
+    - name: "twitter"
+      url: "https://twitter.com/ShreyasJejurkar"
+    - name: "github"
+      url: "https://github.com/ShreyasJejurkar"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/shreyasjejurkar/"
+    - name: "linktree"
+      url: "https://linktr.ee/ShreyasJejurkar"
+minify:
+  disableXML: true
+  minifyOutput: true
 menu:
   main:
-    - name: blog
-      weight: 100
-      identifier: blog
-      url: /blog/
-sitemap:
-  changefreq: weekly
-  filename: sitemap.xml
-  priority: 0.5
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 30
+pygmentsUseClasses: true
+enableRobotsTXT: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary

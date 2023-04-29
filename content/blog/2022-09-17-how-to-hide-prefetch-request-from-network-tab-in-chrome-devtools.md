@@ -1,6 +1,6 @@
 ---
 id: 862
-title: 'How to &#8211; Hide Prefetch request from Network Tab in Chrome DevTools'
+title: 'How to - Hide Prefetch request from Network Tab in Chrome DevTools'
 date: 2022-09-17T06:20:46+00:00
 author: ShreyasJejurkar
 layout: post

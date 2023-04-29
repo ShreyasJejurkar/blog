@@ -1,6 +1,6 @@
 ---
 id: 312
-title: 'How to &#8211; Solve Team explorer fatal error during Visual Studio installation'
+title: 'How to - Solve Team explorer fatal error during Visual Studio installation'
 date: 2016-09-11T08:21:12+00:00
 author: ShreyasJejurkar
 layout: post

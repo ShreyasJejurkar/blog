@@ -1,6 +1,6 @@
 ---
 id: 242
-title: 'How to &#8211; Display Current Windows Version On Desktop'
+title: 'How to - Display Current Windows Version On Desktop'
 date: 2016-03-01T17:29:23+00:00
 author: ShreyasJejurkar
 layout: post

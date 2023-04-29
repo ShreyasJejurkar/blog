@@ -1,6 +1,6 @@
 ---
 id: 228
-title: 'How to &#8211; Create A Folder Without Its Name'
+title: 'How to - Create A Folder Without Its Name'
 date: 2016-02-07T09:22:13+00:00
 author: ShreyasJejurkar
 layout: post
