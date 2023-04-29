@@ -12,11 +12,6 @@ theme = "hugo-sustain"
   description = "Describe your website"
 custom_css = []
   custom_js  = []
-[[menu.main]]
-  name = "blog"
-  weight = 100
-  identifier = "blog"
-  url = "/blog/"
 [sitemap]
   changefreq = 'weekly'
   filename = 'sitemap.xml'
