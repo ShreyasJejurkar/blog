@@ -50,6 +50,7 @@ menu:
       weight: 30
 pygmentsUseClasses: true
 enableRobotsTXT: true
+googleAnalytics: G-VCJBTDWJZP
 outputs:
   home:
     - HTML
