@@ -19,7 +19,7 @@ params:
   disableSpecial1stPost: true
   comments: true
   homeInfoParams:
-    Title: Hi there, I'am Shreyas Jejurkar, welcome to my digital space.
+    Title: Hi there, I'm Shreyas Jejurkar, welcome to my digital space.
     Content: "Currently I am working as Software Engineer at Microsoft. 
     Here you will find blogs on various topics like Windows, programming, technology, misc etc."
   socialIcons:
