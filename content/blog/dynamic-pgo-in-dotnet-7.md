@@ -12,11 +12,11 @@ tags:
 
 With .NET 7 release, the .NET team has released dynamic PGO functionality for JIT in CoreCLR. Static PGO was already there with .NET 6 release, but with 7, we have both Static and dynamic PGO. Static PGO is by default on in .NET 6 and 7, the dynamic PGO we have to opt into with the flag. But before we enable it, let’s understand quickly what PGO means itself and what’s the difference between its static and dynamic variants.
 
-## What is PGO!?
+## What is PGO?
 
 PGO stands for Profile guided optimization. In this compiler optimizes the generated code based on its execution behavior and the flow. Generally, the compiler assumes that all the possible behavior of the code will always occur and happen at runtime as well. To simplify the understanding of this, one of the good code examples is the try/catch block, 90% of the time, the catch block won’t execute, because whatever is expected to happen in the try block will always happen, and in some exceptional scenario, the catch block will execute. So, in this one, the compiler can, even more, optimize the code path in the try block and can bring closer to the calling method for faster execution because that is the 90 % of occurring cases in the given scenario. So, in short with PGO, the compiler has some additional data to further optimize the code based on its execution behavior.
 
-## Difference between Static PGO and Dynamic PGO.
+## Difference between Static PGO and Dynamic PGO
 
 Static PGO relies on statically available data for the execution. Most of the cases static PGO is getting used to improve the startup time, because it’s statically known that from a given method the execution will start, so in that we can pre-JIT that method to enable faster startup execution.
 Whereas Dynamic PGO relies on real-time (dynamic) data for optimization. It monitors the hot path, frequently executing methods and a bunch of other things while running the actual application, and based on that data, it optimizes the codegen for those particular scenarios and hence the throughput of that application improves over the period.
