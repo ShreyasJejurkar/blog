@@ -31,8 +31,8 @@ For enabling static PGO we don’t have to do anything, it’s enabled by defaul
 </PropertyGroup>
 ```
 
-We have to add the above property to the csproj file of the actual execution project like the ASP.NET Core WebAPI project or the Console project. 
-If you have many projects in your solution and if you don’t want to go to each project and add this, you can create a Directory.Build.props file (parallel to the solution file) and put it like below.
+We have to add the above property to the `.csproj` file of the actual execution project like the ASP.NET Core WebAPI project or the Console project. 
+If you have many projects in your solution and if you don’t want to go to each project and add this, you can create a `Directory.Build.props` file (parallel to the solution file) and put it like below.
 
 ```xml
 <Project>
