@@ -7,7 +7,7 @@ layout: post
 categories:
     - Programming
 tags:
-    - dotnet
+    - .NET
 ---
 
 With .NET 7 release, the .NET team has released dynamic PGO functionality for JIT in CoreCLR. Static PGO was already there with .NET 6 release, but with 7, we have both Static and dynamic PGO. Static PGO is by default on in .NET 6 and 7, the dynamic PGO we have to opt into with the flag. But before we enable it, let’s understand quickly what PGO means itself and what’s the difference between its static and dynamic variants.
