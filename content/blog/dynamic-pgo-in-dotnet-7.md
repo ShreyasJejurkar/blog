@@ -2,7 +2,7 @@
 title: "Dynamic PGO in .NET 7"
 date: 2023-05-07T06:33:32Z
 slug: dynamic-pgo-in-dotnet7
-author: ShreyasJejurkar
+author: Shreyas Jejurkar
 layout: post
 categories:
     - Programming
