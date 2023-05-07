@@ -43,6 +43,7 @@ If you have many projects in your solution and if you don’t want to go to each
 ```
 
 This file gets automatically read by dotnet build or msbuild at runtime and will apply those values at the time of actual build and publishing of the project.
+
 So with the above steps, the dynamic PGO gets enabled for the JIT for your project. If you want to learn more about Dynamic PGO, please refer to the below set of links.
 
 [Design document for dynamic PGO](https://github.com/dotnet/runtime/blob/main/docs/design/features/DynamicPgo.md)
