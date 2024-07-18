@@ -19,6 +19,6 @@ But in this quick blog post, I will share a direct download link for downloading
 
 [Click here to direct download VMWare Workstation Pro (For Personal Use)](https://1drv.ms/u/s!AiigWA4U1FM83EWyYxenDuCoOEf7)
 
-But in case you want to download it from Broadcom for some reason, you can [click here](https://support.broadcom.com/group/ecx/productfiles?subFamily=VMware%20Workstation%20Pro&displayGroup=VMware%20Workstation%20Pro%2017.0%20for%20Personal%20Use%20(Windows)).
+But in case you want to download it from Broadcom for some reason, you can [click here](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro).
 
 Thanks for reading….
