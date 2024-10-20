@@ -20,7 +20,7 @@ params:
   comments: true
   homeInfoParams:
     Title: Hi there, I'm Shreyas Jejurkar, welcome to my digital space.
-    Content: "Currently I am working as Software Engineer at Microsoft. 
+    Content: "Currently I am working as Software Engineer at Sutherland. 
     Here you will find blogs on various topics like Windows, programming, technology, misc etc."
   socialIcons:
     - name: "twitter"
